@@ -20,8 +20,8 @@ We can break the Flatiron Process down into seven steps:
 3) Name the procedure that fixes the problem
 4) Identify what inputs are needed to create the output
 5) Define the procedure’s implementation
-6) Verify the procedure's output
-7) Translate the procedure description into code as defined by the syntax of the language
+6) Translate the procedure description into code
+7) Verify the procedure's output
 
 #### Identify the Problem
 
