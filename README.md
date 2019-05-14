@@ -15,13 +15,13 @@ Flatiron strategies for solving a code problem.
 
 We can break the Flatiron Process down into seven steps:
 
-1) Identify the problem
-2) Identify the output that would solve the problem
-3) Name the procedure that fixes the problem
-4) Identify what inputs are needed to create the output
-5) Define the procedure’s implementation
-6) Translate the procedure description into code
-7) Verify the procedure's output
+1. Identify the problem.
+2. Identify the output that would solve the problem.
+3. Name the procedure that fixes the problem.
+4. Identify what inputs are needed to create the output.
+5. Define the procedure’s implementation.
+6. Translate the procedure description into code.
+7. Verify the procedure's output.
 
 #### Identify the Problem
 
